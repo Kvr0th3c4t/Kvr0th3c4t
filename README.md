@@ -1,12 +1,11 @@
 # 💫 About Me:
-👋 ¡Hola! Soy **Adrián Carmona**, Desarrollador **Full Stack** con experiencia en **HTML**, **CSS**, **JavaScript**, **Angular** y **Java Spring Boot**.  
-Me apasiona construir aplicaciones web modernas, escalables y con un enfoque en la arquitectura limpia y la experiencia de usuario.  
+👋 ¡Hola! Soy **Adrián Carmona**, Desarrollador **Full Stack** con experiencia en **HTML**, **CSS**, **JavaScript**, **Angular** y **Java Spring Boot**. Ahora también estoy explorando el ecosistema Microsoft ddesarrollando aplicaciones con **ASP.Net**, **C#**, **Blazor**, **SQL Server** y la nube de **Azure**. 
 
-💡 Actualmente estoy explorando **React** y **Next.js**, ampliando mis conocimientos en el ecosistema JavaScript para seguir creciendo como desarrollador versátil.  
+Me apasiona construir aplicaciones web modernas, escalables y con un enfoque en la arquitectura limpia y la experiencia de usuario.  
 
 🚀 Me interesa especialmente:
 - El desarrollo **frontend** con tecnologías modernas y diseño responsivo.  
-- La creación de **APIs RESTful** y soluciones **backend** robustas con Spring Boot.  
+- La creación de **APIs RESTful** y soluciones **backend** robustas.  
 - La mejora continua a través de buenas prácticas, patrones de diseño y automatización.  
 
 🐾 Dato curioso: Mi nombre de usuario y mi logo están inspirados en mi gato **Kuro**.  
