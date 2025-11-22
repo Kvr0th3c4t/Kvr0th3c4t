@@ -36,6 +36,11 @@ Me apasiona construir aplicaciones web modernas, escalables y con un enfoque en 
 ![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white)
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=flat&logo=vite&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-5C2D91.svg?style=flat&logo=dotnet&logoColor=white)
+![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4.svg?style=flat&logo=dotnet&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-007FFF.svg?style=flat&logo=microsoftazure&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927.svg?style=flat&logo=microsoft-sql-server&logoColor=white)
+
 
 ---
 
