@@ -1,10 +1,9 @@
 # 💫 About Me:
-👋 ¡Hola! Soy **Adrián Carmona**, Desarrollador **Full Stack** con experiencia en **HTML**, **CSS**, **JavaScript**, **Angular** y **Java Spring Boot**. Ahora también estoy explorando el ecosistema Microsoft ddesarrollando aplicaciones con **ASP.Net**, **C#**, **Blazor**, **SQL Server** y la nube de **Azure**. 
-
-Me apasiona construir aplicaciones web modernas, escalables y con un enfoque en la arquitectura limpia y la experiencia de usuario.  
+👋 ¡Hola! Soy **Adrián Carmona**, Desarrollador **Full Stack** Actualmente estoy explorando el ecosistema Microsoft ddesarrollando aplicaciones con **ASP.Net**, **C#**, **Blazor**, **SQL Server** y la nube de **Azure**. He estudiado **desarrollo de aplicaciones web** y mi meta es profesionalizarme en el **desarrollo de videojuegos**.  
 
 🚀 Me interesa especialmente:
-- El desarrollo **frontend** con tecnologías modernas y diseño responsivo.  
+- El desarrollo **de videojuegos**.
+- El desarrollo de **páginas web**
 - La creación de **APIs RESTful** y soluciones **backend** robustas.  
 - La mejora continua a través de buenas prácticas, patrones de diseño y automatización.  
 
