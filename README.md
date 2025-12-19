@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 ¡Hola! Soy **Adrián Carmona**, Desarrollador **Full Stack** Actualmente estoy explorando el ecosistema Microsoft ddesarrollando aplicaciones con **ASP.Net**, **C#**, **Blazor**, **SQL Server** y la nube de **Azure**. He estudiado **desarrollo de aplicaciones web** y mi meta es profesionalizarme en el **desarrollo de videojuegos**.  
+👋 ¡Hola! Soy **Adrián Carmona**, Desarrollador **Full Stack** Actualmente estoy explorando el ecosistema Microsoft desarrollando aplicaciones con **ASP.Net**, **C#**, **Blazor**, **SQL Server** y la nube de **Azure**. He estudiado **desarrollo de aplicaciones web** y mi meta es profesionalizarme en el **desarrollo de videojuegos**.  
 
 🚀 Me interesa especialmente:
 - El desarrollo **de videojuegos**.
